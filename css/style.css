@@ -1,0 +1,44 @@
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body{
+	color: #d7d7d7;
+	background: url('../img/.png') center bottom no-repeat;
+	background-size: contain;
+	background-color: #484848;
+	margin-bottom: 60px;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Poiret One', 'cursive';
+}
+.jumbotron{
+	color: #484848;
+	background-color: #F77F00;
+}
+.logo{
+	margin: 0 auto;
+}
+.text-color{
+	color: #F77F00;
+}
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 80px;
+  background-color: none;
+  border-top: #666 solid 1px;
+}
+.nav-pills a{
+	color: #D6DD41;
+}
+.nav-pills a:hover{
+	color: #484848;
+}
+a:link {color:#F77F00;}
+a:visited {color:#F77F00;}
+a:hover {color:#F77F00;} 
+a:active {color:#F77F00;} 
